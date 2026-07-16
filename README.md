@@ -8,8 +8,7 @@ Link to [https://github.com/Suraj-BH/Practical_Application_11.1/blob/main/prompt
 
 ### Business Understanding
 Used car dealerships operate in a highly competitive market with tight margins. To maximize profit, they must optimize trade-in appraisal offers and price lot inventory accurately. 
-
-Reframed as a data task, this project resolves a **Supervised Continuous Regression** problem. We aim to construct an interpretable model that maps independent parameters (such as vehicle age, mileage, engine size, and fuel type) to a continuous dependent target variable (`price`).
+We aim to construct an interpretable model that maps independent parameters (such as vehicle age, mileage, engine size, and fuel type) to a continuous dependent target variable (`price`).
 
 ### 2. Data Understanding & Quality Assessment
 The initial dataset consisted of 426,880 entries across 18 features. A thorough missing-value analysis revealed several critical data integrity concerns:
